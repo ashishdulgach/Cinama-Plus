@@ -40,7 +40,7 @@ create a mongodb database and add your connection string into .env file
 
 Install the dependencies and devDependencies
 
-$ git clone https://github.com/georgesimos/Movie-app.git
+$ git clone 
 $ npm install
 $ cd server npm install && npm start
 $ cd client npm install && npm start
